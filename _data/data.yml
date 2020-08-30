@@ -35,29 +35,16 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MS in Electrical and Computer Engineering (Signal and Image Processing and Machine Learning)
+    - degree: MS in Electrical and Computer Engineering
       university: University of Michigan, Ann Arbor    
       time: 2019 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: Specialization : Signal and Image Processing and Machine Learning
+        
     - degree: BTech in Electronics and Communication Engineering
       university: National Institute of Technology, Tiruchirappalli, India
       time: 2015 - 2019
-      GPA : 9.94/10.0 | Gold Medalist
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - 
-          - Bullet point
+      details: GPA : 9.94/10.0 | Gold Medalist
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
