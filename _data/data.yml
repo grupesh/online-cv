@@ -38,7 +38,9 @@ education:
     - degree: MS in Electrical and Computer Engineering
       university: University of Michigan, Ann Arbor    
       time: 2019 - 2021
-      details: Specialization - Signal and Image Processing and Machine Learning
+      Specialization - Signal and Image Processing and Machine Learning
+      details: |
+        Specialization - Signal and Image Processing and Machine Learning
         
     - degree: BTech in Electronics and Communication Engineering
       university: National Institute of Technology, Tiruchirappalli, India
