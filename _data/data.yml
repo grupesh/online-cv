@@ -9,31 +9,31 @@ sidebar:
     # Profile information
     name: Rupesh Gupta
     tagline: Image Processing Researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 20190814_212543.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: grupesh@umich.edu
     phone: 734 881 5303
-    website: blog.webjeda.com #do not add http://
+    website: grupesh.github.io #do not add http://
     linkedin: rupesh-gupta-03
     github: grupesh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
 education:
     - degree: MS in Electrical and Computer Engineering
       university: University of Michigan, Ann Arbor    
@@ -46,21 +46,12 @@ education:
       gpa: GPA - 9.94/10.0  Gold Medalist
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Student Research Assistant
+      time: Jan 2020 - Present
+      company: University of Michigan, Ann Arbor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        "Guide : Prof. Yuni Dewaraja and Prof. Jeff Fessler" |
+        Developing deep learning methods for low-count quantitative PET/SPECT imaging.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
